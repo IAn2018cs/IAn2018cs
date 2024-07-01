@@ -1,7 +1,7 @@
 ## Abstract
 <p>
   <img src="https://github-readme-stats-pi-seven-94.vercel.app/api?username=IAn2018cs&show_icons=true&hide_border=true" alt="IAn2018cs's Github Stats" width="58%" />
-  <img src="https://github-readme-stats-pi-seven-94.vercel.app/api/top-langs/?username=IAn2018cs&layout=compact&hide_border=true&langs_count=10&hide=javascript,html,vue,c,c++" alt="IAn2018cs's Top Langs" width="37%" /> 
+  <img src="https://github-readme-stats-pi-seven-94.vercel.app/api/top-langs/?username=IAn2018cs&layout=compact&hide_border=true&langs_count=10&hide=javascript,html,css,vue,c,cpp,ts" alt="IAn2018cs's Top Langs" width="37%" /> 
 </p>
 
 <p>
