@@ -9,4 +9,4 @@
   <img src="https://stats-cards-psi.vercel.app/api/juejin/?id=2119514147534382&theme=light" alt="IAn2018cs's Zhihu Stats" width="49%" /> 
 </p>
 
-![skills](https://skillicons.dev/icons?i=kotlin,java,py,swift,md,git,linux,androidstudio,xcode)
+![skills](https://skillicons.dev/icons?i=kotlin,java,py,swift,md,php,firebase,git,github,linux,mysql,androidstudio,pycharm,apple,sublime,vscode)
